@@ -1,3 +1,4 @@
 rm -rf .git    -> unmade the folder from being a repo
 git rm --cached index.html    -> uncommit index.html
 git rm -r --cached .    -> uncommit everything
+git show 19a415930ff2089d240619d48fc50d394b1c8d22
