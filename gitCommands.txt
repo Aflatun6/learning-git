@@ -1,0 +1,3 @@
+rm -rf .git    -> unmade the folder from being a repo
+git rm --cached index.html    -> uncommit index.html
+git rm -r --cached .    -> uncommit everything
