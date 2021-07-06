@@ -5,3 +5,6 @@ git show 19a415930ff2089d240619d48fc50d394b1c8d22
 git diff    -> to show the differences between st. area and commit area
 git restore gitCommands.txt     -> to delete the changes in staging area
 git commit --amend -m"NEW APPROPRIATE MESSAGE"    -> to change git commit message (OF THE LAST COMMIT)
+git remote add origin https://github.com/Aflatun6/learning-git.git    ->  to make connection with the repo
+git branch -M main 	-> to use main branch
+git push -u origin main       -> to push via main branch
