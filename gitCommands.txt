@@ -8,3 +8,5 @@ git commit --amend -m"NEW APPROPRIATE MESSAGE"    -> to change git commit messag
 git remote add origin https://github.com/Aflatun6/learning-git.git    ->  to make connection with the repo
 git branch -M main 	-> to use main branch
 git push -u origin main       -> to push via main branch
+
+
