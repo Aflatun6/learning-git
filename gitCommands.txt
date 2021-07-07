@@ -8,6 +8,7 @@ git commit --amend -m"NEW APPROPRIATE MESSAGE"    -> to change git commit messag
 git remote add origin https://github.com/Aflatun6/learning-git.git    ->  to make connection with the repo
 git branch -M main 	-> to use main branch
 git push -u origin main       -> to push via main branch
-git branch nameOfTheBranch    -> to create a brach (depending where you are: local, remote)
-git checkout nameOfTheBranch    -> to switch the branch
-git checkout -     -> to switch to the previous branch
+git checkout -b newBranchName    -> to create and checkout new branch
+git branch -a       -> to list all the branches
+git branch -d branchName   -> to delete that branch (run this command from another branch)
+git log --oneline      -> to show last lines of the log
