@@ -12,4 +12,3 @@ git checkout -b newBranchName    -> to create and checkout new branch
 git branch -a       -> to list all the branches
 git branch -d branchName   -> to delete that branch (run this command from another branch)
 git log --oneline      -> to show last lines of the log
-----------
